@@ -1,0 +1,207 @@
+.container{
+	width: 96vw;
+	height: 100vh;
+	margin-left: 1vw;
+}
+.row{
+	display: flex;
+}
+.row img{
+	margin-left: 15vw;
+	margin-top: 2vh;
+}
+.text{
+	margin-left: 15vw;
+}
+.text .line{
+		width: 27vw;
+		border: 1px solid black;
+		margin-left: 4vw;
+		margin-top: 0.2vh;
+
+}
+.text2{
+	margin-left:0.9vw;
+	padding-left: 0;
+
+}
+.text2 .line1{
+		width: 27vw;
+		border: 1px solid black;
+		margin-left: 3vw;
+		margin-top: 0.2vh;
+
+}
+.text3{
+	margin-left:3vw;
+	padding-left: 0;
+
+}
+.text3 .line2{
+		width: 27vw;
+		border: 1px solid black;
+		margin-left: 0.2vw;
+		margin-top: 0.2vh;
+
+}
+.text4{
+	margin-left:0.3vw;
+	padding-left: 0;
+
+}
+.text4 .line3{
+		width: 27vw;
+		border: 1px solid black;
+		margin-left: 0.2vw;
+		margin-top: 0.2vh;
+
+}
+.text5{
+	margin-left:0.1vw;
+	padding-left: 0;
+
+}
+.text5 .line4{
+		width: 27vw;
+		border: 1px solid black;
+		margin-left:0.1vw;
+		margin-top: 0.2vh;
+
+}
+.text6{
+	margin-left: 0;
+	padding-left: 0;
+	float: left;
+}
+.text6 .line5{
+	width: 27vw;
+	border:1px solid black;
+	margin-right: 0.1vw;
+
+	
+}
+.text7{
+
+	margin-left: 0;
+	padding-left: 0;
+	float: left;
+
+}
+.text7 .line6{
+	width: 27vw;
+	border:1px solid black;
+	margin-right: 0.1vw;
+
+}
+
+.text8{
+
+	margin-left: 0;
+	padding-left: 0;
+	float: left;
+
+}
+.text8 .line7{
+	width: 27vw;
+	border:1px solid black;
+	margin-right: 0.1vw;
+
+}
+.text9{
+
+	margin-left: 0;
+	padding-left: 0;
+	float: left;
+
+}
+.text9 .line8{
+	width: 27vw;
+	border:1px solid black;
+	margin-right: 0.1vw;
+
+}
+.right-side {
+	display: flex;	
+}
+.right-side .text-A {
+	margin-top: -140px;
+	width: 21vw;
+	height: 29vh;
+	background-color: #e1f1fc;
+	color: black;
+	box-shadow: 2px 2px lightgray;
+
+
+}
+.content {
+	width: 21vw;
+	height: 4vh;
+	background-color: skyblue;
+	color: black;
+	border: 1px solid blue;
+	margin-top: 2vh;
+
+
+}
+.content1 {
+	width: 21vw;
+	height: 5vh;
+	background-color: #f08080;
+	color: black;
+	border: 1px solid blue;
+	margin-top: 2vh;
+
+}
+.content2{
+	width: 21vw;
+	height: 4vh;
+	background-color: #add8e6;
+	color: black;
+	border: 1px solid blue;
+	margin-top: 1vh;
+}
+.content3{
+	width: 21vw;
+	height: 4vh;
+	background-color: #FFB6C1;
+	color: black;
+	border: 1px solid blue;
+	margin-top: 1vh;
+
+}
+.content4{
+	width: 21vw;
+	height: 4vh;
+	background-color: lightgray;
+	color: black;
+	border: 1px solid blue;
+	margin-top: 2vh;
+}
+.right-side2{
+		width: 13vw;
+		height: 35vh;
+		margin-right: -2vw;
+		display: flex;
+		
+}
+
+.content5{
+	width: 15vw;
+	height: 20vh;
+	background-color: skyblue;
+	color: black;
+	box-shadow: 2px 2px lightgray;
+	margin-right: 2vw;
+
+}
+
+
+
+
+
+
+	
+
+
+
+

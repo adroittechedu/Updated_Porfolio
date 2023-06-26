@@ -1,0 +1,79 @@
+
+
+
+.container{
+	width: 96vw;
+	height: auto;
+
+}
+.row{
+	display: flex;
+
+}
+.left-1{
+	width: 40vw;
+	height: 100vh;
+	margin-left: 1vw;
+}
+.left-1 .logo{
+	width: 96vw;
+	height: 5vh;
+	background-color: black;
+	border: 2px solid black;
+	margin-left: 0.7vw;
+	margin-right: 0.5vh;
+}
+.left-1 .logo h5{
+	color: white;
+	margin-left: 97%;
+	margin-top: 1vh;  
+}
+
+.row img{
+	margin-top: 2vh;
+	margin-left: 0.7vw;
+	margin-top: 1vh;
+}
+.row p{
+	margin-left: 2vw;
+}
+.row .icons{
+	margin-left:16vh;
+	margin-top: 0.7vh;
+	
+}
+.row-2 h4{
+	margin-left:0.1vh;	
+}
+.sidebar{
+	position: fixed;
+	height: 100%;
+	width: 200px;
+	margin-left: 0.2vw;
+	margin-top: 0;
+		
+}
+.sidebar-menu{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+}
+.sidebar-menu >span{
+	font-size: 14px;
+	padding-right: 30px;
+
+}
+
+.right1{
+	width: 50vw;
+	height: 100vh;
+	background-color: lightgray;
+	border: 1px 1px solid lightgray;
+	margin-left: 10vw;
+	margin-top: 2vh;
+}
+.right1 h2{
+	margin-left: 4vw;
+}

@@ -1,0 +1,737 @@
+.container{
+    width: 97vw;
+    height: 125vh;
+    font-family: verdana;
+    border: 2px solid #579AFF;
+}
+.firstrow{
+    width: 97vw;
+    height: 19.2vh;
+    border: 2px solid  #579AFF;
+    display: flex;
+}
+.logo{
+    width: 15vw;
+    height: 19.2vh;
+    border: 2px solid #579AFF;
+}
+.logo img{
+    width: 12vw;
+    height: 19.2vh;
+    margin-left: 2vw;
+}
+.heading{
+    width: 82vw;
+    height: 19.2vh;
+    border: 1px solid #579AFF;
+}
+.rowone{
+    width: 81.5vw;
+    height: 9vh;
+    
+}
+.rowtwo{
+    width: 81.5vw;
+    height: 4vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.rowthree{
+    width: 81.5vw;
+    height: 4vh;
+    border: 2px solid #579AFF;
+    display: flex;
+    
+}
+.headingrow{
+    width: 81.5vw;
+    height: 3.5vh;
+    
+
+}
+.linkrow{
+    width: 81.5vw;
+    height: 3.5vh;
+    display: flex;
+}
+.headingrow h1{
+    font-size: 20px;
+    color: #579AFF;
+    margin-left: 11vw;
+
+}
+.link{
+    margin-left: 12vw;
+    color: #579AFF;
+    margin-top: 1.5vh;
+}
+.phone{
+    color: #579AFF;
+    margin-left: 22.5vw;
+    margin-top: 1.5vh;
+
+}
+.customer{
+    width: 28vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+}
+.customertext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.ed{
+    width: 5vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+}
+.edtext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.billmonth{
+    width: 13vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+}
+.billmonthtext{
+    text-align: center;
+    margin-top: .5vh;
+    color: #579AFF;
+}
+.readingdate{
+    width: 18vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+    
+}
+.readingtext{
+    text-align: center;
+    color: #579AFF;
+    margin-top: .5vh;
+}
+.issue{
+    width: 15vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+}
+.issuetext{
+    text-align: center;
+    color: #579AFF;
+    margin-top: .5vh;
+}
+.duedate{
+    width: 17vw;
+    height: 4vh;
+    border-right: 2px solid #579AFF;
+}
+.duedatetext{
+    text-align: center;
+    color: red;
+    margin-top: .5vh;
+}
+.edtext span{
+    color: black;
+}
+.billmonthtext span{
+    color: black;
+}
+.readingtext span{
+    color: black;
+}
+.issuetext span{
+    color: black;
+}
+.duedatetext span{
+    color: black;
+}
+.secondrow{
+    width: 97vw;
+    height: 27vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.refrencecol{
+    width: 54.3vw;
+    height: 27vh;
+    border: 2px solid #579AFF;
+}
+.refrow{
+    width: 54.3vw;
+    height: 4vh;
+    display: flex;
+    
+}
+.refnocol{
+    width: 23vw;
+    height: 3vh;
+    border: 2px solid #579AFF;
+}
+.reftext{
+    text-align: center;
+    color: #579AFF;
+    margin-top: .5vh;
+}
+.tarif{
+    width: 7vw;
+    height: 3vh;
+    border: 2px solid #579AFF;
+}
+.tariftext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.oldac{
+    width: 16.1vw;
+    height: 3vh;
+    border: 2px solid #579AFF;
+}
+.oldactext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.refrowtow{
+    width: 54.1vw;
+    height: 5vh;
+    display: flex;
+    border: 2px solid #579AFF;
+}
+.refnocoltow{
+    width: 23vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.tariftow{
+    height: 5vh;
+    border: 2px solid #579AFF;
+    width: 7vw;
+}
+.tarifthree{
+    height: 5vh;
+    border: 2px solid #579AFF;
+    width: 7vw;
+}
+.oldactow{
+    width: 16.1vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.refrowthree{
+    width: 54.3vw;
+    height: 4vh;
+    display: flex;
+    
+}
+.addresscol{
+    width: 30.2vw;
+    height: 4vh;
+    
+}
+.conncol{
+    width: 15vw;
+    height: 4vh;
+    margin-left: 2vw;
+    border: 2px solid #579AFF;
+}
+.addresstext{
+    margin-top: .5vh;
+    color: #579AFF;
+}
+.datecoltow{
+    width: 14vw;
+    height: 4vh;
+    border: 2px solid #579AFF;
+}
+.conncoltext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.datecoltext{
+    color: black;
+    margin-left: 1vw;
+    text-align: center;
+    margin-top: .5vh;
+    
+}
+.webbill{
+    width: 42vw;
+    height: 27vh;
+    border: 2px solid #579AFF;
+}
+.webbillcol{
+    width: 42vw;
+    height: 12.5vh;
+    border: 2px solid #579AFF;
+}
+.webbillcol h2{
+    text-align: center;
+    margin-top: 4vh;
+}
+.feedertextcol{
+    width: 42vw;
+    height: 4.1vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.feedercolone{
+    width: 12vw;
+    height: 4.1vh;
+    border: 2px solid #579AFF;
+
+}
+.feedercoltow{
+    width: 29.5vw;
+    height: 4.1vh;
+    border: 2px solid #579AFF;
+}
+.feedercolonetext{
+    color: #579AFF;
+    margin-top: 1vh;
+}
+.feedercoltowtext{
+    color: black;
+    margin-top: 1vh;
+}
+.thirdrow{
+    width: 97vw;
+    height: 19vh;
+    border: 2px solid #579AFF;
+}
+.mfrow{
+    width: 97vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.mfcolfirst{
+    width: 10vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.mfcoltextone{
+    text-align: center;
+    color: #579AFF;
+    margin-top: 1vh;
+}
+.mfcoltow{
+    width: 6vw; 
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.mfcoltexttow{
+    color: #579AFF;
+    text-align: center;
+    margin-top: 1vh;
+}
+.mfcolthree{
+    width: 8vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+
+}
+.mfcolfour{
+    width: 10vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.mfcolfourtext{
+    color: #579AFF;
+    text-align: center;
+}
+.mfcolfive{
+    width: 11vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.mfcolfivetext{
+    color: #579AFF;
+    text-align: center;
+
+}
+.unpaid{
+    width: 7vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.unpaidtext{
+    color: #579AFF;
+    text-align: center;
+}
+.mfcolsix{
+    width: 12vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.mfcolsixtext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: 1vh;
+}
+.prnextcol{
+    width: 97vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.prcolone{
+    width: 10vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.prcolonetext{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.prcoltow{
+    width: 6vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.prcoltowtext{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.prcolthree{
+    width: 8vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.prcolthreetext{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.prcolfour{
+    height: 13vh;
+    width: 10vw;
+    border: 2px solid #579AFF;
+}
+.prcolfourtext{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.prcolfive{
+    height: 13vh;
+    width: 11vw;
+    border: 2px solid #579AFF;
+}
+.prcolfivetext{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.prcolsix{
+    width: 7vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.prcolseven{
+    width: 10vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.prcoleight{
+    width: 12vw;
+    height: 13vh;
+    border: 2px solid #579AFF;
+}
+.fourrow{
+    width: 97vw;
+    height: 19vh;
+    border: 2px solid #579AFF;
+}
+.meterrow{
+    width: 97vw;
+    height: 5vh;
+    display: flex;
+    border: 2px solid #579AFF;
+}
+.metercolone{
+    width: 14vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.metercolonetext{
+    color: #579AFF;
+    margin-top: 1vh;
+    text-align: center;
+}
+.metercoltow{
+    height: 5vh;
+    width: 8vw;
+    border: 2px solid #579AFF;
+}
+.metercoltowtext{
+    color: #579AFF;
+    
+    text-align: center;
+}
+.metercolthree{
+    height: 5vh;
+    width: 9vw;
+    border: 2px solid #579AFF;
+}
+.metercolthreetext{
+    color: #579AFF;
+    text-align: center;
+    margin-top: 1vh;
+}
+.metercolfour{
+    height: 5vh;
+    width: 8.5vw;
+    border: 2px solid #579AFF;
+}
+.metercolfourtext{
+    text-align: center;
+    color: #579AFF;
+}
+.metercolfive{
+    width: 15vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.metercolfivetext{
+    text-align: center;
+    color: #579AFF;
+}
+.metercolsix{
+    width: 11vw;
+    height: 5vh;
+    border: 2px solid #579AFF;
+}
+.metercolsixtext{
+    color: #579AFF;
+    text-align: center;
+    
+}
+.metercolseven{
+    height: 5vh;
+    width: 10vw;
+    border: 2px solid #579AFF;
+}
+.metercolseventext{
+    color: #579AFF;
+    text-align: center;
+}
+.metercoleight{
+    height: 5vh;
+    width: 9vw;
+    border: 2px solid #579AFF;
+}
+.metercoleighttext{
+    text-align: center;
+    color: #579AFF;
+}
+.metertextrow{
+    width: 97vw;
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+    display: flex;
+    
+}
+.metertextrowone{
+    height: 13.5vh;
+    width: 14vw;
+    border: 2px solid #579AFF;
+   
+}
+.metertextone{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.metertextrowtow{
+    border: 2px solid #579AFF;
+    height: 13.5vh;
+    width: 8vw;
+}
+.metertextrowthree{
+    border: 2px solid #579AFF;
+    height: 13.5vh;
+    width: 8.9vw;
+}
+.metertextrowfour{
+    border: 2px solid #579AFF;
+    height: 13.5vh;
+    width: 8.6vw;
+}
+.metertextrowfive{
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+    width: 14.9vw;
+}
+.metertextfive{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.metertextrowsix{
+    width: 11vw;
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+}
+.metertextrowseven{
+    width: 10vw;
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+}
+.metertextseven{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.metertextroweight{
+    width: 9.8vw;
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+}
+.metertexteight{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.metertextrownine{
+    width: 9vw;
+    height: 13.5vh;
+    border: 2px solid #579AFF;
+}
+.metertextnine{
+    text-align: center;
+    color: black;
+    margin-top: 1vh;
+}
+.lastrow{
+    width: 97vw;
+    height: 39vh;
+    border: 2px solid #579AFF;
+    display: flex;
+}
+.monthrow{
+    width: 35vw;
+    height: 3vh;
+    display: flex;
+}
+.lastrowfirstcol{
+    width: 35vw;
+    height: 26.7vw;
+    border: 2px solid #579AFF;
+}
+.lastrowfirstcolfirstrow{
+    width: 8.5vw;
+    
+    height: 3vh;
+    border: 2px solid #579AFF;
+}
+.lastrowtextone{
+    color: #579AFF;
+    text-align: center;
+    margin-top: .5vh;
+}
+.unitrow{
+    width: 35vw;
+    height: 3vh;
+    display: flex;
+   
+}
+.lastrowunittext{
+    width: 8.5vw;
+    height: 3vh;
+    border-right: 2px solid #579AFF;
+    border-left: 2px solid #579AFF;
+}
+.unittext{
+    color: black;
+    text-align: center;
+    margin-top: .3vh;
+}
+.secondcol{
+    width: 27vw;
+    height: 26.5vw;
+    border: 2px solid #579AFF;
+}
+.bilrow{
+    width: 27vw;
+    height: 3vh;
+    
+    
+}
+.bilrowtext{
+    color: #579AFF;
+    
+    margin-left: .5vw;
+    
+}
+.billtextrowtow{
+    width: 27vw;
+    height: 3vh;
+    
+        
+    
+}
+.pay{
+    width: 27vw;
+    height: 12vh;
+    
+}
+.paybilltext{
+    margin-top: 4vh;
+}
+.report{
+    margin-top: 3vh;
+    width: 27vw;
+    height: 12vh;
+    border-top: 2px solid #579AFF;
+}
+.reporttext{
+    text-align: center;
+    color: red;
+}
+.thirdcol{
+    width: 34vw;
+    height: 39vh;
+    border: 2px solid #579AFF;
+}
+.currenttow{
+    width: 34vw;
+    height: 3vh;
+    display: flex;
+    border: 2px solid #579AFF;
+}
+.one{
+    width: 28vw;
+    height: 3vh;
+    border: 2px solid #579AFF;
+}
+.onetext{
+    margin-top: .5vh;
+    margin-left: 1vw;
+    color: #579AFF;
+}
+.tow{
+    width: 14vw;
+    height: 3vh;
+    
+    color: black;
+    border: 2px solid #579AFF;
+}
+.towtext{
+    margin-top: .5vh;
+    float: right;
+    margin-right: 1vw;
+}
+.supply{
+    line-height: 2;
+    margin-left: 1vw;
+}
+.unittext span{
+    float: right;
+    margin-right: .5vw;
+}

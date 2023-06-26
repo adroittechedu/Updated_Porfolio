@@ -1,0 +1,246 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container-1,.container-2, .container-3{
+	width: 98vw;
+	height: 80vh;
+	display: flex;
+}
+
+
+
+						/*first black-box-1 all content formating will be here.*/
+.black-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: black;
+}
+.black-box-1 h1, ul{
+	color: white;
+	text-align: center;
+	list-style: none;
+	margin-top: 15vh;
+}
+
+
+
+
+
+						/*first-gary-box-1 all content formating will be here.*/
+.gray-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: #607d8b;
+}
+.gray-box-1 img{
+	border-radius: 50vh;
+	width: 15vw;
+	height: 15vw;
+	margin-top: 3vh;
+	margin-left: 17vw;
+}
+.gray-box-1 h1{
+	color: white;
+	text-align: center;
+	margin-top: 15vh;
+}
+.gray-box-1 p{
+	color: white;
+	text-align: center;
+	margin-top: 2vh;
+}
+
+
+
+
+
+							/*white box content will be here */
+.white-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: #f1f1f1;
+
+}
+.white-box-1 h1, p{
+	text-align: center;
+	margin-top: 10vh;
+}
+.white-box-1 .img-row-1{
+	width: 48vw;
+	height: 15vh;
+	display: flex;
+}
+.white-box-1 .img-row-1 img{
+	width: 50vw;
+}
+
+.white-box-1 .img-row-2{
+	width: 48vw;
+	height: 15vh;
+	display: flex;
+}
+.white-box-1 .img-row-2 img{
+	width: 50vw;
+}
+.white-box-1 .img-row-3{
+	width: 48vw;
+	height: 15vh;
+	display: flex;
+}
+.white-box-1 .img-row-3 img{
+	width: 50vw;
+}
+
+
+
+							/*blue box content will here*/
+.blue-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: #3f51b5;
+}
+.blue-box-1 h1, p{
+	color: white;
+	text-align: center;
+	margin-top: 4vh;
+}
+.blue-box-1 .row-1, .row-3, .row-5, .row-7{
+	width: 40vw;
+	height: 7vh;
+	margin-left: 5vw;
+	display: flex;
+
+}
+
+.blue-box-1 .row-2, .row-4, .row-6{
+	width: 40vw;
+	height: 7vh;
+	background-color: white;	
+	margin-left: 5vw;
+	display: flex;
+
+}
+.year{
+ 	color: white;
+ 	margin-left: 1vw;
+ 	margin-top: 4vh;
+ 	font-size: 17px;
+}
+.title{
+	color: white;
+	margin-top: 4vh;
+	margin-left: 10vw;
+	font-size: 17px;
+}
+.where{
+	color: white;
+	margin-top: 4vh;
+	margin-left: 14vw;
+	font-size: 17px;
+}
+.tim{
+ 	margin-left: 1vw;
+ 	margin-top: 1vh;
+ 	font-size: 13px;
+}
+.tit, .dis{
+	margin-top: 1vh;
+	margin-left: 10vw;
+	font-size: 13px;	
+}
+
+.time{
+ 	color: white;
+ 	margin-left: 1vw;
+ 	margin-top: 2vh;
+ 	font-size: 13px;
+}
+.start, .my, .d, .h{
+	color: white;
+	margin-top: 2vh;
+	margin-left: 9vw;
+	font-size: 13px
+}
+.ti{
+	margin-left: 1vw;
+ 	margin-top: 2vh;
+ 	font-size: 13px;
+}
+.st, .lo{
+	margin-top: 2vh;
+	margin-left: 10vw;
+	font-size: 13px;	
+}
+
+.t{
+	color: white;
+ 	margin-left: 1vw;
+ 	margin-top: 2vh;
+ 	font-size: 13px;
+}
+.a{
+	margin-left: 1vw;
+ 	margin-top: 1vh;
+ 	font-size: 13px;
+}
+.b, .c{
+	margin-top: 1vh;
+	margin-left: 10vw;
+	font-size: 11px;
+}
+
+.g{
+	color: white;
+ 	margin-left: 1vw;
+ 	margin-top: 1vh;
+ 	font-size: 13px;	
+}
+.e{
+	color: white;
+	margin-top: 1vh;
+	margin-left: 10vw;
+	font-size: 10px		
+}
+.f{
+	color: white;
+	margin-top: 1vh;
+	margin-left: 10vw;
+	font-size: 11px;	
+}
+
+
+							/*dark box content will be here*/
+.dark-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: #616161;
+}
+.dark-box-1 h1{
+	color: white;
+	text-align: center;
+	margin-top: 15vh;
+}
+.dark-box-1 ul{
+	color: white;
+	margin-left: -5vw;
+	margin-top: 20vh;
+}
+
+
+
+							/*green box content will be here*/
+.green-box-1{
+	width: 50vw;
+	height: 80vh;
+	background-color: #009788;
+}
+.green-box-1 h1{
+	color: white;
+	margin-left: 2vw;
+	margin-top: 15vh;
+}
+.font{
+	margin-left: 2vw;
+	font-size: 10px;
+}

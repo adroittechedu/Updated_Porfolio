@@ -1,0 +1,509 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: lightgray;
+}
+
+.header{
+	width: 100%;
+	height: 6vh;
+	background-color: #4d6370;
+	display: flex;
+}
+.header .logo{
+	width: 15%;
+	height: 6vh;
+	background-color: #3a4b53;
+	display: flex;
+}
+.header .logo img{
+	margin-left: 2vw;
+	margin-top: 0vh;
+	height: 6vh;
+}
+.header h5{
+	margin-left: 2vw;
+	margin-top: 2vh;
+	color: white;
+	font-size: 14px;
+}
+.header .world img{
+	width: 2vw;
+	height: 3vh;
+	margin-left: 2vw;
+	margin-top: 1.5vh;
+}
+.header .user img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: 2vw;
+	margin-top: 1vh;
+}
+.header .message img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: 2vw;
+	margin-top: 1vh;
+}
+.header .bell img{
+	width: 2vw;
+	height: 3vh;
+	margin-left: 2vw;
+	margin-top: 1.5vh;
+}
+.header .log-pic img{
+	width: 4vw;
+	height: 5vh;
+	margin-left: 61vw;
+	margin-top: 1vh;
+}
+.header a{
+	color: none;
+	text-decoration: none; 
+}
+ 
+ /*header information ended*/
+
+.row-1, .row-2, .row-3, .row-4{
+	display: flex;
+}
+
+
+.profile{
+	width: 25vw;
+	height: 47vh;
+	margin-left: 2vw;
+	margin-top: 5vh;
+	background-color: white;
+}
+.profile h1{
+	text-align: center;
+}
+.profile img{
+	border-radius: 50%;
+	width: 10vw;
+	height: 12vh;
+	margin-left: 7vw;
+
+}
+.profile h2{
+	margin-top: 0vh;
+	color: lightgray;
+}
+.profile .r-1{
+	display: flex;
+}
+.profile ul{
+	list-style: none;
+}
+.profile .r-1  img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+}
+.profile .r-1 .dis{
+	margin-left: 4vw;
+	font-size: 15px;
+}
+.profile .r-2  img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+}
+.profile .r-2 .place{
+	margin-left: 4vw;
+	font-size: 15px;
+	margin-top: -4vh;
+}
+.profile .r-3  img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+	margin-top: 1.5vh;
+}
+.profile .r-3 .date{
+	margin-left: 4vw;
+	font-size: 15px;
+	margin-top: -3.5vh;
+}
+
+/*profile data completed*/
+
+
+.status{
+	width: 50vw;
+	height: 30vh;
+	background-color: white;
+	margin-top: 5vh;
+	margin-left: 2vw;
+}
+.status h1{
+	margin-left: 2.5vw;
+	color: gray;
+
+}
+.status .feeling{
+	width: 90%;
+	height: 25%;
+	border: 1px solid lightgray;
+	margin-left: 2.5vw;	
+}
+.status .feeling .fe{
+	color: black;
+	margin-top: 1.5vh;
+	margin-left: 1vw;
+	font-size: 20px;
+	
+}
+.status .post img{
+	margin-top: 2vh;
+	margin-left: 2.5vw;
+	width: 8vw;
+	height: 4vh;
+	
+}
+.status a{
+	color: none;
+	text-decoration: none; 
+}
+
+ 		/*status data completed*/
+
+
+
+
+.holiday{
+	width: 16vw;
+	height: 35vh;
+	background-color: white;
+	margin-left: 2vw;
+	margin-top: 5vh;
+}
+.holiday h2{
+	margin-left: 1vw;
+}
+.holiday img{
+	width: 13vw;
+	height: 13vh;
+	margin-left: 1.5vw;
+}
+.holiday h3{
+	text-align: center;
+}
+.holiday h4{
+	text-align: center;
+	margin-top: -1vh;
+}
+.holiday .info img{
+	width: 10vw;
+	height: 4vh;
+	margin-top: -1.5vh;
+	margin-left: 3vw;
+}
+.holiday a{
+	color: none;
+	text-decoration: none; 
+}
+
+/*holiday content ended*/
+
+
+.my{
+	width: 25vw;
+	height: 20vh;
+	background-color: #7d97a5;
+	margin-top: 2vh;
+	margin-left: 2vw;
+}
+.my a{
+	color: none;
+	text-decoration: none; 
+}
+.my .my-group{
+	display: flex;
+}
+.my ul{
+	list-style: none;
+}
+.my .my-group  img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+}
+.my .my-group .group{
+	margin-left: 4vw;
+	font-size: 18px;
+	color: white;
+}
+.my .my-event img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+	margin-top: 1vh;
+}
+.my .my-event .event{
+	margin-left: 4vw;
+	font-size: 18px;
+	margin-top: -4vh;
+	color: white;
+}
+.my .my-photo  img{
+	width: 3vw;
+	height: 4vh;
+	margin-left: -3vw;
+	margin-top: 2vh;
+}
+.my .my-photo .photo{
+	margin-left: 4vw;
+	font-size: 18px;
+	margin-top: -3.5vh;
+	color: white;
+}
+
+/*my content ( my group,event,photo) ended here*/
+
+.mid{
+	width: 50vw;
+	height: 67vh;
+	background-color: white;
+	margin-left: 2vw;
+	margin-top: -15vh;
+}
+.mid .nav{
+	display: flex;
+}
+.mid .nav img{
+	width: 8vw;
+	height: 10vh;
+	border-radius: 50%;
+	margin-top: 3vh;
+	margin-left: 2vw; 
+}
+.mid .nav h2{
+	margin-left: 1vw;
+	margin-top: 6vh;
+}
+.mid .nav h4{
+	margin-top: 6vh;
+	margin-left: 26vw;
+}
+.mid .line{
+	width: 90%;
+	text-align: center;
+	color: lightgray;
+	margin-top: 2vh;
+}
+.mid .para p{
+	text-align: left;
+	margin-top: 3vh;
+	margin-left: 1vw;	 
+}
+.mid .pic-row{
+	display: flex;
+}
+.mid .pic-row .light img{
+	width: 23vw;
+	height: 23vh;
+	margin-left: 1vw;
+}
+.mid .pic-row .nature img{
+	width: 23vw;
+	height: 23vh;
+	margin-left: 2vw;
+}
+.mid .buttons{
+	display: flex;
+}
+
+.mid .like img ,.comment img,.mid-area .buttons-1 .like-1 img, .mid-area .buttons-1 .comment-1 img{
+	margin-top: 1vh;
+	margin-left: 1vw;
+}
+
+.friend{
+	width: 16vw;
+	height: 35vh;
+	background-color: white;
+	margin-top: -5vh;
+	margin-left: 2vw;
+}
+.friend h2{
+	text-align: center;
+}
+.friend img{
+	width: 8vw;
+	height: 10vh;
+	margin-top: 0vh;
+	margin-left: 4vw;
+}
+.friend h3{
+	text-align: center;
+	margin-top: 1vh;
+}
+.friend .check-box img{
+	width: 14vw;
+	height: 5vh;
+	margin-left: 1vw;
+	margin-top: 0vh; 
+}
+
+
+.inter{
+	width: 25vw;
+	height: 20vh;
+	background-color: white;
+	margin-left: 2vw;
+	margin-top: -21vh ;
+
+}
+
+.inter h3{
+	margin-left: 1vw;
+	font-size: 18px;
+}
+.inter img{
+	margin-top: -2vh;
+}
+
+.AD{
+	width: 16vw;
+	height: 20vh;
+	background-color:white;
+	margin-top:-18vh;
+	margin-left: 54vw;
+}
+.AD .ad-text{
+	font-size: 20px;
+	text-align: center;
+	margin-top: 8vh;
+}
+.hey{
+	width: 25vw;
+	height: 20vh;
+	background-color: #e0e5e9;
+	margin-left: 2vw;
+	margin-top: -1vh;
+}
+.hey img{
+	width: 25vw;
+	height: 20vh;
+}
+.mid-area{
+	width: 50vw;
+	height: 40vh;
+	background-color: white;
+	margin-left: 2vw;
+	margin-top: 0vh;
+}
+
+.mid-area .nav-1{
+	display: flex;
+}
+.mid-area .nav-1 img{
+	width: 8vw;
+	height: 10vh;
+	border-radius: 50%;
+	margin-top: 3vh;
+	margin-left: 2vw; 
+}
+.mid-area .nav-1 h2{
+	margin-left: 1vw;
+	margin-top: 6vh;
+}
+.mid-area .nav-1 h4{
+	margin-top: 6vh;
+	margin-left: 26vw;
+}
+.mid-area .line{
+	width: 90%;
+	text-align: center;
+	color: lightgray;
+	margin-top: 1vh;
+}
+.mid-area .para-1 p{
+	text-align: left;
+	margin-top: 3vh;
+	margin-left: 1vw;	 
+}
+.mid-area .buttons-1{
+	display: flex;
+}
+
+/*mid-area content ended*/
+
+.in{
+	width: 16vw;
+	height: 20vh;
+	background-color: white;
+	margin-top: 2vh;
+	margin-left: 2vw;
+}
+.in img{
+	width: 16vw;
+	height: 20vh;
+}
+
+.mid-3{
+	width: 50vw;
+	height: 85vh;
+	background-color: white;
+	margin-left: 29vw;
+	margin-top: 2vh;
+}
+.mid-3 .nav-2{
+	display: flex;
+}
+.mid-3 .nav-2 img{
+	width: 8vw;
+	height: 10vh;
+	border-radius: 50%;
+	margin-top: 3vh;
+	margin-left: 2vw; 
+}
+.mid-3 .nav-2 h2{
+	margin-left: 1vw;
+	margin-top: 6vh;
+}
+.mid-3 .nav-2 h4{
+	margin-top: 6vh;
+	margin-left: 26vw;
+}
+.mid-3 .line{
+	width: 90%;
+	text-align: center;
+	color: lightgray;
+	margin-top: 1vh;
+}
+.mid-3 .para-2 p{
+	text-align: left;
+	margin-top: 3vh;
+	margin-left: 1vw;	 
+}
+.mid-3 .last-img img{
+	width: 96%;
+	height: 50vh;
+	margin-left: 1vw;
+}
+.mid-3 .buttons-2{
+	display: flex;
+}
+.mid-3 .buttons-2 .like-2{
+	margin-left: 1vw;
+	margin-top: 1vh;
+}
+.mid-3 .buttons-2 .comment-2{
+	margin-top: 1vh;
+	margin-left: 1vw;
+}
+.footer{
+    margin-top:2vh;
+	width: 100%;
+	height: 6vh;
+	background-color: #4d6370;
+}
+.f-text{
+	color: white;
+	font-size: 30px;
+	margin-left: 2vw;
+
+}
